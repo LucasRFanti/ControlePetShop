@@ -16,4 +16,4 @@ Se o pet for retirado da maquina sem estar limpo será necessário limpar a máq
 A limpeza da máquina ira consumir 3 litros de água e 1 litro de shampoo;
 O abastecimento de água e shampoo deve permitir 2 litros por vez que for acionado;
 
-Este código tem um menu interativo para chamar as funções e tem uma opção de sair para finalizar a execução
+Este código tem um menu interativo para chamar as funções e tem uma opção de sair para finalizar a execução.
